@@ -87,10 +87,7 @@ const Index = () => {
         <div className="absolute inset-0 bg-gradient-to-br from-primary/10 via-transparent to-accent/5" />
         <div className="container mx-auto relative z-10 max-w-4xl text-center">
           <div className="inline-block mb-4">
-            <Badge variant="secondary" className="text-sm px-4 py-1">
-              <Icon name="Zap" size={14} className="mr-1" />
-              Оригинал и аналоги в наличии
-            </Badge>
+            <Badge variant="secondary" className="text-sm px-4 py-1">Оригинал и аналоги под заказ</Badge>
           </div>
           <h1 className="text-5xl md:text-6xl font-bold mb-6 animate-slide-up">
             Запчасти для вашего автомобиля
