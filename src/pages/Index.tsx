@@ -67,7 +67,7 @@ const Index = () => {
         <div className="container mx-auto px-4 py-4 flex items-center justify-between">
           <div className="flex items-center gap-2">
             <Icon name="Wrench" size={28} className="text-primary" />
-            <span className="text-2xl font-bold">AutoParts Pro</span>
+            <span className="text-2xl font-bold">ТАКТИКА</span>
           </div>
           <nav className="hidden md:flex gap-6">
             <a href="#catalog" className="hover:text-primary transition-colors">Каталог</a>
@@ -375,10 +375,10 @@ const Index = () => {
           <div className="flex flex-col md:flex-row justify-between items-center gap-4">
             <div className="flex items-center gap-2">
               <Icon name="Wrench" size={24} className="text-primary" />
-              <span className="font-bold">AutoParts Pro</span>
+              <span className="font-bold">ТАКТИКА</span>
             </div>
             <p className="text-sm text-muted-foreground">
-              © 2024 AutoParts Pro. Все права защищены.
+              © 2024 ТАКТИКА. Все права защищены.
             </p>
             <div className="flex gap-4">
               <a href="#" className="text-muted-foreground hover:text-primary transition-colors">
